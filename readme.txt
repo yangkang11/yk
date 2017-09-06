@@ -3,3 +3,4 @@ Git is free software.
 update
 dasdas
 wee
+Git has a mutable index called stage.
